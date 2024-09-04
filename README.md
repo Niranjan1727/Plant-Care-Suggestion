@@ -38,6 +38,3 @@ Open a web browser and navigate to http://127.0.0.1:5000/ to access the applicat
 - Implement machine learning models for predictive care suggestions.
 - Improve the user interface and user experience.
 
-## License
-
-This project is licensed under the MIT License.
